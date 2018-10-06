@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1453762398 source:c:\users\fvg\desktop\estructuraparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538787421 source:c:\users\fvg\desktop\estructuraparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538787364 source:c:\users\fvg\desktop\estructuraparcial\negocio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"negocio.h"
+
+1538787087 c:\users\fvg\desktop\estructuraparcial\negocio.h
+
