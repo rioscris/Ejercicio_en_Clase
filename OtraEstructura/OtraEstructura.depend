@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538798179 source:c:\users\fvg\desktop\otraestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"utn.h"
+
+1453762398 source:c:\users\fvg\desktop\otraestructura\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538798075 source:c:\users\fvg\desktop\otraestructura\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"utn.h"
+
+1538798195 c:\users\fvg\desktop\otraestructura\peliculas.h
+
+1538266041 c:\users\fvg\desktop\otraestructura\utn.h
+
