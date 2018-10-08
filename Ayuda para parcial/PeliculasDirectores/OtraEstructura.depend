@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1538952620 source:c:\users\fvg\desktop\otraestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"utn.h"
+
+1538950654 source:c:\users\fvg\desktop\otraestructura\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538952914 source:c:\users\fvg\desktop\otraestructura\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"directores.h"
+	"utn.h"
+
+1538951563 c:\users\fvg\desktop\otraestructura\peliculas.h
+	"directores.h"
+
+1538266041 c:\users\fvg\desktop\otraestructura\utn.h
+
+1538949185 source:c:\users\fvg\desktop\otraestructura\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"directores.h"
+	"peliculas.h"
+
+1538945891 c:\users\fvg\desktop\otraestructura\directores.h
+
+1538949185 source:c:\users\fvg\desktop\peliculasdirectores\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"directores.h"
+	"peliculas.h"
+
+1538266041 c:\users\fvg\desktop\peliculasdirectores\utn.h
+
+1538967621 c:\users\fvg\desktop\peliculasdirectores\directores.h
+	"peliculas.h"
+	"utn.h"
+
+1538968953 c:\users\fvg\desktop\peliculasdirectores\peliculas.h
+	"directores.h"
+	"utn.h"
+
+1538952620 source:c:\users\fvg\desktop\peliculasdirectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"utn.h"
+
+1538952993 source:c:\users\fvg\desktop\peliculasdirectores\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"directores.h"
+	"utn.h"
+
+1538950654 source:c:\users\fvg\desktop\peliculasdirectores\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
